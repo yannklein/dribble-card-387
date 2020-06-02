@@ -1,45 +1,8 @@
-.search-bar {
-  background-color: #444444;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  padding-left: 8px;
-}
-
-.search-bar select {
-  height: calc(36px + 1em);
-  width: 200px;
-  background-color: #575757;
-  color: white;
-  border: 1px solid gray;
-}
-
-.search-bar > * {
-  margin-right: 8px;
-}
-
-.search-bar i {
-  font-size: 24px;
-  color: gray;
-}
-
-.btn-blue {
-  text-decoration: none;
-  display: inline-block;
-  color: white;
-  padding: 16px 36px;
-  background: linear-gradient(#45A1E8, #187CCD);
-  border-radius: 4px;
-}
-
-.btn-blue:hover {
-  filter: brightness(1.2);
-}
-
-.menu {
-  display: flex;
-  justify-content: space-between;
-  color: white;
-  background-color: #323232;
-}
+<h1>
+Tapioca Honey Pizza
+</h1>
+<p>
+「いまさらタピオカピザ」は、モッツアレラチーズの上に
+本格タピオカがのったモチモチの新食感が楽しめます！
+オーブンで温められたタピオカは、弾力がありモチモチした食感で、チーズとも好相性！
+</p>
