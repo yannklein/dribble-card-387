@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap');
 
+@import url('components/container.css');
+@import url('components/card.css');
+@import url('components/button.css');
+
 body {
   background-color: gray;
   font-family: 'Roboto', sans-serif;
