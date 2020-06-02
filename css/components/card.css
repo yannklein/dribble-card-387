@@ -54,17 +54,16 @@
 }
 
 .card-footer {
-  display: flex;
+  height: 260px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
 }
 
 .card-footer img {
-  flex-grow: 1;
-  margin-right: 16px;
   object-fit: cover;
-}
-
-.card-footer img:last-of-type {
-  margin-right: 0px;
+  width: 100%;
+  height: 100%;
 }
 
 #heart {
